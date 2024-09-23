@@ -1,6 +1,6 @@
 
 def q1():
-  #Write Assignment code here
+
 
 def q2():
   #Write Assignment code here
